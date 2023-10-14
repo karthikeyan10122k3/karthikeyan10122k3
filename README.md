@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Karthikeyan R
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me @karthikeyan10dec2k3@gmail.com
 
 <!---
