@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Karthikeyan R
 - 👀 I’m interested in Web Developement
+- 🙌 A MERN Stack / NextJs Developer.
 - 📫 How to reach me @karthikeyan10dec2k3@gmail.com
 
 <!---
