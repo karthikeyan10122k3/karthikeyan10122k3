@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Karthikeyan R<br>🌱 I’m currently Amazon Web Services<br>👀 I’m interested in Web / Cloud Developement<br>🙌 A MERN Stack / NextJs Developer / Cloud Engineer.<br>📫 How to reach me @karthikeyan10dec2k3@gmail.com
+👋 Hi, I’m Karthikeyan R<br>🌱 I’m currently learning Amazon Web Services<br>👀 I’m interested in Web / Cloud Developement<br>🙌 A MERN Stack / NextJs Developer / Cloud Engineer.<br>📫 How to reach me @karthikeyan10dec2k3@gmail.com
 
 
 ## 🌐 Socials:
