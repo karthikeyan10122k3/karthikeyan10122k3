@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Karthikeyan R<br>🌱 I’m currently learning ASP.NET <br>👀 I’m interested in Web Developement<br>🙌 A MERN Stack / NextJs / ASP.NET Developer<br>📫 How to reach me @karthikeyan10dec2k3@gmail.com
+👋 Hi, I’m Karthikeyan R<br>🌱 Currently learning ASP.NET <br>👀 Interested in Web Developement<br>🙌 A MERN Stack / NextJs / ASP.NET Developer<br>📫 How to reach me @karthikeyan10dec2k3@gmail.com
 
 
 ## 🌐 Socials:
